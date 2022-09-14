@@ -1,9 +1,9 @@
 body {
-  background-color: lightblue;
+  background-color: yellow;
 }
 
 h1 {
-  color: white;
+  color: Red;
   text-align: center;
 }
 
@@ -16,6 +16,6 @@ p {
 }
 .classcontent{width:800px;
             margin:auto;
-
+            border-style:solid;
 }
 
